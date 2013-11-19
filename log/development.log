@@ -3183,3 +3183,116 @@ Served asset /static_pages.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-18 15:03:02 +0400
 Served asset /application.js - 304 Not Modified (1ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/signin" for 127.0.0.1 at 2013-11-19 13:11:34 +0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (28.6ms)
+Compiled sessions.css  (114ms)  (pid 8060)
+Compiled application.css  (190ms)  (pid 8060)
+Compiled sessions.js  (665ms)  (pid 8060)
+Compiled application.js  (699ms)  (pid 8060)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_footer.html.erb (1.2ms)
+Completed 200 OK in 1502ms (Views: 1500.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /application.css - 304 Not Modified (68ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /custom.css - 304 Not Modified (14ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /static_pages.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /users.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /sessions.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /jquery.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /sessions.js - 200 OK (2ms)
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /static_pages.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /users.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:36 +0400
+Served asset /application.js - 304 Not Modified (12ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (6.2ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 97ms (Views: 96.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /custom.css - 304 Not Modified (13ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /sessions.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /static_pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /static_pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /sessions.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-19 13:11:53 +0400
+Served asset /application.js - 304 Not Modified (1ms)
